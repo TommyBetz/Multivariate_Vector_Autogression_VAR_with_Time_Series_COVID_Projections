@@ -32,10 +32,10 @@ I am assuming that the Covid-19 virus takes maximum 14 days for its symptoms to 
 - US borders closed around mid March
 - US borders will open up again in in mid September. I estimated that the daily increase of new arrivals starting in mid September will be 7% (semi-arbitrary number) from the previous day.
 
-### Analysis
+## Analysis
 Given the non-optimization (lack of time) of the model, the forecasts are not very accurate. However, it is interesting to see that the new cases did decrease, and then significantly increased again. The new increase towards the end is due to the my estimates that the US borders will open up again in mid September. 
 
-### Future work
+## Future work
     • include the data from other countries
     • validate and compare different models
         ◦ use different or a mixture of models
@@ -57,7 +57,7 @@ Given the non-optimization (lack of time) of the model, the forecasts are not ve
         ◦ specific guidelines and restrictions by each state which seem to differ across the US
         ◦ etc.
 
-### Projections
+## Projections
 date        daily new cases
 2020-06-08    21,260.0
 2020-06-09    18,544.0
